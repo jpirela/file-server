@@ -23,7 +23,7 @@ Un servidor de archivos robusto construido con **Express.js 5** y **Multer** par
 1. **Clona el repositorio:**
 ```bash
 git clone <url-del-repositorio>
-cd lwc_files
+cd files-server
 ```
 
 2. **Instala las dependencias:**
@@ -74,7 +74,7 @@ UPLOAD_DIRECTORY=uploads
 ## 📁 Estructura del Proyecto
 
 ```
-lwc_files/
+files-server/
 ├── .env                    # Variables de entorno
 ├── .gitignore             # Archivos ignorados por Git
 ├── server.js              # Servidor principal (ES Modules)
