@@ -254,10 +254,6 @@ npm test       # Ejecuta las pruebas (no implementado)
 4. Push a la rama (`git push origin feature/nueva-caracteristica`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia ISC.
-
 ## 🔧 Notas de Desarrollo
 
 - El proyecto usa **ES Modules** (`"type": "module"` en package.json)
@@ -279,3 +275,11 @@ Verifica que la extensión del archivo esté en la lista `ALLOWED_EXTENSIONS`
 ---
 
 **¿Necesitas ayuda?** Abre un issue en el repositorio del proyecto.
+
+## 🤝 Contribución
+
+¡Las PR son bienvenidas! El objetivo es que este script se convierta en una herramienta universal para migrar fácilmente bases SQL a modelos Sequelize listos para usar en Express.js.
+
+## 📄 Licencia
+
+Este proyecto está disponible bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles. Contribución
