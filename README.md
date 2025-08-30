@@ -1,4 +1,4 @@
-# LWC Files - Servidor de Archivos Express.js
+# Files Server - Servidor de Archivos Express.js
 
 Un servidor de archivos robusto construido con **Express.js 5** y **Multer** para la subida, almacenamiento y servicio de archivos con soporte para subcarpetas dinámicas.
 
